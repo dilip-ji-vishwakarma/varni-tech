@@ -1,0 +1,301 @@
+{
+  "filterOptions": [
+    { "name": "Cloud Computing", "group": "cloudComputing" },
+    { "name": "Mobile", "group": "mobile" },
+    { "name": "Programming languages", "group": "programmingLanguages" },
+    { "name": "Frameworks", "group": "frameworks" },
+    { "name": "Databases", "group": "databases" },
+    { "name": "DevOps", "group": "devOps" },
+    { "name": "AI/ML", "group": "ai-ml" }
+  ],
+  "imageItems": [
+    {
+      "group": ["ai-ml"],
+      "image": "/assets/images/new-tech/pandas-1.png",
+      "title": "Pandas",
+      "category": ""
+    },
+    {
+      "group": ["ai-ml"],
+      "image": "/assets/images/new-tech/pycaret-1.png",
+      "title": "PyCaret",
+      "category": ""
+    },
+    {
+      "group": ["ai-ml"],
+      "image": "/assets/images/new-tech/open-ai.png",
+      "title": "OpenAI",
+      "category": ""
+    },
+    {
+      "group": ["ai-ml"],
+      "image": "/assets/images/new-tech/tensor-flow.png",
+      "title": "TensorFlow",
+      "category": ""
+    },
+    {
+      "group": ["ai-ml"],
+      "image": "/assets/images/new-tech/pytorch-1.png",
+      "title": "PyTorch",
+      "category": ""
+    },
+    {
+      "group": ["ai-ml"],
+      "image": "/assets/images/new-tech/learn-1.png",
+      "title": "Scikit-learn",
+      "category": ""
+    },
+    {
+      "group": ["ai-ml"],
+      "image": "/assets/images/new-tech/open-cv.png",
+      "title": "OpenCV",
+      "category": ""
+    },
+    {
+      "group": ["ai-ml"],
+      "image": "/assets/images/new-tech/keras-1.png",
+      "title": "Keras",
+      "category": ""
+    },
+    {
+      "group": ["ai-ml"],
+      "image": "/assets/images/new-tech/gensim-1.png",
+      "title": "Gensim",
+      "category": ""
+    },
+    {
+      "group": ["ai-ml"],
+      "image": "/assets/images/new-tech/spacy-1.png",
+      "title": "SpaCy",
+      "category": ""
+    },
+    {
+      "group": ["mobile"],
+      "image": "/assets/images/new-tech/tailwind.png",
+      "title": "Tailwind CSS",
+      "category": ""
+    },
+    {
+      "group": ["mobile"],
+      "image": "/assets/images/new-tech/bootstrap.png",
+      "title": "Bootstrap",
+      "category": ""
+    },
+    {
+      "group": ["mobile"],
+      "image": "/assets/images/new-tech/native_1.png",
+      "title": "React Native",
+      "category": ""
+    },
+    {
+      "group": ["mobile"],
+      "image": "/assets/images/new-tech/ionic-1.png",
+      "title": "Ionic",
+      "category": ""
+    },
+    {
+      "group": ["mobile"],
+      "image": "/assets/images/new-tech/flutter_1.png",
+      "title": "Flutter",
+      "category": ""
+    },
+    {
+      "group": ["mobile"],
+      "image": "/assets/images/new-tech/android_1.png",
+      "title": "Android",
+      "category": ""
+    },
+    {
+      "group": ["mobile"],
+      "image": "/assets/images/new-tech/ios-4.png",
+      "title": "iOS",
+      "category": ""
+    },
+    {
+      "group": ["databases"],
+      "image": "/assets/images/new-tech/spring.png",
+      "title": "Spring",
+      "category": ""
+    },
+    {
+      "group": ["databases"],
+      "image": "/assets/images/new-tech/sql_server_2.png",
+      "title": "SQL Server",
+      "category": ""
+    },
+    {
+      "group": ["databases"],
+      "image": "/assets/images/new-tech/my-sql.png",
+      "title": "MySQL",
+      "category": ""
+    },
+    {
+      "group": ["databases"],
+      "image": "/assets/images/new-tech/oracle_1.png",
+      "title": "Oracle",
+      "category": ""
+    },
+    {
+      "group": ["databases"],
+      "image": "/assets/images/new-tech/elastic-search-1.png",
+      "title": "Elasticsearch",
+      "category": ""
+    },
+    {
+      "group": ["databases"],
+      "image": "/assets/images/new-tech/fire-base.png",
+      "title": "Firebase",
+      "category": ""
+    },
+    {
+      "group": ["databases"],
+      "image": "/assets/images/new-tech/neptune-1.png",
+      "title": "Amazon Neptune",
+      "category": ""
+    },
+    {
+      "group": ["cloudComputing"],
+      "image": "/assets/images/new-tech/web-service.png",
+      "title": "AWS",
+      "category": ""
+    },
+    {
+      "group": ["cloudComputing"],
+      "image": "/assets/images/new-tech/open-stack-1.png",
+      "title": "OpenStack",
+      "category": ""
+    },
+    {
+      "group": ["cloudComputing"],
+      "image": "/assets/images/new-tech/azure-5.png",
+      "title": "Azure",
+      "category": ""
+    },
+    {
+      "group": ["cloudComputing"],
+      "image": "/assets/images/new-tech/cloud_1.png",
+      "title": "Google Cloud",
+      "category": ""
+    },
+    {
+      "group": ["programmingLanguages"],
+      "image": "/assets/images/new-tech/python_2.png",
+      "title": "Python",
+      "category": ""
+    },
+    {
+      "group": ["programmingLanguages"],
+      "image": "/assets/images/new-tech/javascript.jpeg",
+      "title": "JavaScript",
+      "category": ""
+    },
+    {
+      "group": ["programmingLanguages"],
+      "image": "/assets/images/new-tech/java.png",
+      "title": "Java",
+      "category": ""
+    },
+    {
+      "group": ["programmingLanguages"],
+      "image": "/assets/images/new-tech/go-1.png",
+      "title": "Go",
+      "category": ""
+    },
+    {
+      "group": ["programmingLanguages"],
+      "image": "/assets/images/techstack/ruby.png",
+      "title": "Ruby",
+      "category": ""
+    },
+    {
+      "group": ["programmingLanguages"],
+      "image": "/assets/images/techstack/php.png",
+      "title": "PHP",
+      "category": ""
+    },
+    {
+      "group": ["programmingLanguages"],
+      "image": "/assets/images/new-tech/typescript_1.png",
+      "title": "TypeScript",
+      "category": ""
+    },
+    {
+      "group": ["frameworks"],
+      "image": "/assets/images/new-tech/django.png",
+      "title": "Django",
+      "category": ""
+    },
+    {
+      "group": ["frameworks"],
+      "image": "/assets/images/new-tech/react_3.png",
+      "title": "React",
+      "category": ""
+    },
+    {
+      "group": ["frameworks"],
+      "image": "/assets/images/new-tech/angular.png",
+      "title": "Angular",
+      "category": ""
+    },
+    {
+      "group": ["frameworks"],
+      "image": "/assets/images/techstack/fastapi.png",
+      "title": "FastAPI",
+      "category": ""
+    },
+    {
+      "group": ["databases"],
+      "image": "/assets/images/techstack/oracle.png",
+      "title": "Oracle",
+      "category": ""
+    },
+    {
+      "group": ["databases"],
+      "image": "/assets/images/new-tech/mongo.png",
+      "title": "MongoDB",
+      "category": ""
+    },
+    {
+      "group": ["databases"],
+      "image": "/assets/images/new-tech/postgrc.png",
+      "title": "PostgreSQL",
+      "category": ""
+    },
+    {
+      "group": ["databases"],
+      "image": "/assets/images/techstack/neo4j.png",
+      "title": "Neo4j",
+      "category": ""
+    },
+    {
+      "group": ["devOps"],
+      "image": "/assets/images/new-tech/docker-1.png",
+      "title": "Docker",
+      "category": ""
+    },
+    {
+      "group": ["devOps"],
+      "image": "/assets/images/new-tech/kubernetes-4.png",
+      "title": "Kubernetes",
+      "category": ""
+    },
+    {
+      "group": ["devOps"],
+      "image": "/assets/images/new-tech/github-1.png",
+      "title": "GitHub",
+      "category": ""
+    },
+    {
+      "group": ["devOps"],
+      "image": "/assets/images/new-tech/bit-bucket-1.png",
+      "title": "Bitbucket",
+      "category": ""
+    },
+    {
+      "group": ["devOps"],
+      "image": "/assets/images/new-tech/jenkins_1.png",
+      "title": "Jenkins",
+      "category": ""
+    }
+  ]
+}

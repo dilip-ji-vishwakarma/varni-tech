@@ -1,0 +1,40 @@
+{
+    "image": "../../assets/images/company/aboutus.jpg",
+    "title": "Contact Us",
+    "description": "",
+    "list": [
+      {
+        "title": "Home",
+        "link": "/"
+      },
+      {
+        "title": "Contact us",
+        "link": "/contact"
+      }
+    ],
+    "contactData": [
+      {
+        "icon": "phone",
+        "title": "Phone",
+        "description": "Don't hesitate to give us a call. We're here to help you succeed!",
+        "link": "+91 94527 10408",
+        "action": "tel:"
+      },
+      {
+        "icon": "email",
+        "title": "Email",
+        "description": "We look forward to hearing from you and helping you achieve your learning goals!",
+        "link": "info@varnitech.ai",
+        "action": "mailto:"
+      },
+      {
+        "icon": "location",
+        "title": "Location",
+        "description": "PLOT NO 617, AYYAPPA SOCIETY SERI LINGAMALL,HYDERABAD, Hyderabad, Telangana, India, 500033",
+        "link": "View in Maps",
+        "action": "https://maps.google.com/maps?width=1080&height=1600&hl=en&q=road 34, AYYAPPA SOCIETY SERI LINGAMALL, HYDERABAD, Hyderabad, Telangana&t=&z=15&ie=UTF8&iwloc=B&output=embed"
+      }
+    ],
+    "maps":"https://maps.google.com/maps?width=1080&height=1600&hl=en&q=road 34, AYYAPPA SOCIETY SERI LINGAMALL, HYDERABAD, Hyderabad, Telangana&t=&z=15&ie=UTF8&iwloc=B&output=embed"
+  }
+  

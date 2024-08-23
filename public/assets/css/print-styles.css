@@ -1,0 +1,9 @@
+/* @media print {
+    .heading {
+      font-size: 12px !important;
+    }
+  } */
+
+  .heading {
+    font-size: 50px !important;
+  }
