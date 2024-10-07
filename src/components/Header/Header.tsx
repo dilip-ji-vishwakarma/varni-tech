@@ -32,7 +32,7 @@ export const Header = () => {
   ];
   return (
     <>
-      <div className="bg-white fixed z-[99] bg-opacity-75 backdrop-blur-[15px] shadow-md container">
+      <div className="bg-white fixed z-[99] bg-opacity-75 backdrop-blur-[15px] shadow-md container max-w-full">
 
           <div className="flex justify-between items-center md:py-2 py-2">
             <div className="xl:w-[25%] lg:w-[25%] md:w-[25%]">
